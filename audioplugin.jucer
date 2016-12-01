@@ -6,7 +6,7 @@
               buildAAX="0" pluginName="audioplugin" pluginDesc="audioplugin"
               pluginManufacturer="yourcompany" pluginManufacturerCode="Manu"
               pluginCode="Y3dp" pluginChannelConfigs="" pluginIsSynth="0" pluginWantsMidiIn="1"
-              pluginProducesMidiOut="1" pluginIsMidiEffectPlugin="0" pluginEditorRequiresKeys="0"
+              pluginProducesMidiOut="1" pluginIsMidiEffectPlugin="1" pluginEditorRequiresKeys="0"
               pluginAUExportPrefix="audiopluginAU" pluginRTASCategory="" aaxIdentifier="com.yourcompany.audioplugin"
               pluginAAXCategory="AAX_ePlugInCategory_Dynamics" jucerVersion="4.3.0">
   <MAINGROUP id="ATKFPT" name="audioplugin">

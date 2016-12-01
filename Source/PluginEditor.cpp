@@ -30,6 +30,9 @@ AudiopluginAudioProcessorEditor::AudiopluginAudioProcessorEditor (AudiopluginAud
     
     //this function adds the slider to the editor
     addAndMakeVisible(&midiVolume);
+    
+    //add the listener to the slider
+    midiVolume.addListener (this);
 }
 
 AudiopluginAudioProcessorEditor::~AudiopluginAudioProcessorEditor()

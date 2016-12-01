@@ -22,7 +22,7 @@ class AudiopluginAudioProcessor  : public AudioProcessor
 {
 public:
     //==============================================================================
-    float noteOnVal;
+    float noteOnVel;
     AudiopluginAudioProcessor();
     ~AudiopluginAudioProcessor();
 
